@@ -49,7 +49,7 @@ src="https://github-readme-stats.vercel.app/api?username=mkalbore&show_icons=tru
  <br>
 
  <h2 align="center">My contribution Streak 🔥</h2>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mkalbore&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mkalbore&theme=cobalt&hide_border=true" alt="GitHub Streak" /></a>
  
   <h2 align="center">Frequently used Language 📺</h2>
 <p align="center">
