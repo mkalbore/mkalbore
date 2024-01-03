@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-kwinta-989b97231/?locale=en_US)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Albore)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MarekKwinta_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quint.biuro@gmail.com)
+
 
 # I'm a Developer, Designer, and Freelancer
 
@@ -59,7 +59,7 @@ src="https://github-readme-stats.vercel.app/api?username=mkalbore&show_icons=tru
  </p>
 
 
-If u have questions ❓, feel free to ask.
+If u have questions ❓, feel free to ask. [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quint.biuro@gmail.com)
 
 <!--
 **mkalbore/mkalbore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
