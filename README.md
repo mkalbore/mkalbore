@@ -1,4 +1,4 @@
-# Hi there, I'm Marek Kwinta - Albore!!! 👋
+# Hi there, I'm Marek Kwinta - Albore 👋
 
 [![Website](https://img.shields.io/website?label=quint-5&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.quint-5.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-kwinta-989b97231/?locale=en_US)
@@ -6,7 +6,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MarekKwinta_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quint.biuro@gmail.com)
 
-# I'm a Developer, Designer, and Freelancer!!!
+# I'm a Developer, Designer, and Freelancer
 
 - 📝 I’m currently wonder if AI will take my job 📝
 - 👯 I’m looking to collaborate with people who want to create something great 👯
