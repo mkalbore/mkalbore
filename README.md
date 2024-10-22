@@ -5,13 +5,12 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Albore)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/MarekKwinta_)
 
-
 # I'm a Developer, Designer, and Freelancer
 
-- 📝 I’m currently wonder if AI will take my job 📝
-- 👯 I’m looking to collaborate with people who want to create something great 👯
-- 👨‍💻 Goals: Make internet better place | Contribute more to Open Source projects 👨‍💻
-- ⚡ Fun fact: Photography 📸, Music 🎼, Automotive 🏎 and AI 🌌 are things I know "something" about ⚡
+- 📝 I believe we are f...... (Because of AI). 📝
+- 👯 I'm wondering whether it's better to look for a job as a miner or a plumber.👯
+- 👨‍💻 Goals: Decide if "Batman" is the only valid first commit? 👨‍💻
+- ⚡ Fun fact: Probably we are not as doomed as we first expected. Meanwhile, I'm back to looking for my "perfect job" (Surely one day). ⚡
 
 ## Languages and Tools ⚙️
 
@@ -20,15 +19,15 @@
 <a href="#"><img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
-<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
-
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
-
 <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+
+<a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+<a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
+
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
 
 </p>
 
@@ -58,20 +57,4 @@ src="https://github-readme-stats.vercel.app/api?username=mkalbore&show_icons=tru
   </a>
  </p>
 
-
 If u have questions ❓, feel free to ask. [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quint.biuro@gmail.com)
-
-<!--
-**mkalbore/mkalbore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
